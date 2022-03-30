@@ -32,15 +32,22 @@ infoAboutPerson(1998, 'Arthur')
 
 ## Experience:
 
-**Sofware Engineer**: 2020 - present
+**Sofware Engineer**:
+
+2020 - present
 
 ## Education
 
-**BNTU**: 2015-2020
+**BNTU**
+
+**Faculty of information Technology and Robotics**
+
+2015-2020
 
 ## English
 
 **B1(Pre-intermediate)**
+
 Experience in trading and communication with native speakers
 
 
