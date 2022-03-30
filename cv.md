@@ -2,10 +2,10 @@
 
 ## Contacts:
 
-* Location: Minsk, Belarus
-* Email: mielofon47@gmail.com
-* Phone: 291443188
-* Discord: Fantazer#0998
+* **Location**: Minsk, Belarus
+* **Email**: mielofon47@gmail.com
+* **Phone**: 291443188
+* **Discord**: Fantazer#0998
 
 ## About me:
 
@@ -32,5 +32,15 @@ infoAboutPerson(1998, 'Arthur')
 
 ## Experience:
 
-Sofware Engineer: 2020 - present
+**Sofware Engineer**: 2020 - present
+
+## Education
+
+**BNTU**: 2015-2020
+
+## English
+
+**B1(Pre-intermediate)**
+Experience in trading and communication with native speakers
+
 
